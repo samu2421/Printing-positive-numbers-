@@ -1,4 +1,4 @@
-print("Enter the no's:")            #Enter numbers seperated by space
+print("Enter the no's:")            #Enter numbers seperated by whitespace
 n = list(input().split())
 print("Entered list is : ", n)
 
